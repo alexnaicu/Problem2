@@ -9,7 +9,7 @@ I would start by
 2.
  If this is a recurring problem I would check the past solve within the team.
 
-* A first shot in the dark would be that the problem is caused by a change on the authentication configuration code, taking a hint from the fact that the signin page is not accessible.
+* A first guess would be that the problem is caused by a change on the authentication configuration code, taking a hint from the fact that the signin page is not accessible.
   Given the fact that this problem passed unnoticed through the testing phase and the pre production phase, a check for a misuse of some environment variable should also be taken into consideration.
 
 3.
